@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:171C3A,70:4C1D95,100:06B6D4&text=AFFANMS&fontColor=F8FAFC&fontSize=58&fontAlignY=36&desc=INFORMATION%20SYSTEMS%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=14&descAlignY=58&animation=fadeIn" alt="AffanMS dark neon header">
+<img src="https://raw.githubusercontent.com/AffanMS/AffanMS/main/dragon-energy.png" alt="Purple and cyan dragons" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Affan%20Maulana%20Saputra&fontSize=32&fontColor=FFFFFF&fontAlignY=55&color=0:7C3AED,100:06B6D4" alt="Affan Maulana Saputra - purple cyan gradient">
+
+<p><strong>INFORMATION SYSTEMS · DEVELOPER IN PROGRESS</strong></p>
 
 <a href="https://github.com/AffanMS">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&lines=System.out.println(%22Hello%2C+world!%22)%3B;Turning+coffee+into+code...;Learning+today.+Building+tomorrow.;Debugging+is+my+unofficial+cardio." alt="Animated developer tagline">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&lines=Learning+today.;Building+tomorrow.;Debugging+is+my+unofficial+cardio." alt="Animated developer tagline">
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-Building%20%26%20Learning-06B6D4?style=for-the-badge&labelColor=0B1020" alt="Focus badge">
-<img src="https://img.shields.io/badge/VIBE-Dark%20Mode%20Only-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Dark mode badge">
-<img src="https://komarev.com/ghpvc/?username=AffanMS&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://img.shields.io/badge/FOCUS-BUILDING%20%26%20LEARNING-06B6D4?style=for-the-badge&labelColor=080B16" alt="Focus">
+<img src="https://img.shields.io/badge/VIBE-DARK%20MODE%20ONLY-7C3AED?style=for-the-badge&labelColor=080B16" alt="Dark mode">
+<img src="https://komarev.com/ghpvc/?username=AffanMS&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -19,104 +23,74 @@
 ## `> whoami`
 
 ```text
-Name      : Affan
+Name      : Affan Maulana Saputra
 Role      : Information Systems Student
 Campus    : Telkom University
 Interests : Web Development • Databases • System Design
 Mindset   : Learn → Build → Debug → Repeat
 ```
 
-Hi there! 👋 I'm **Affan**, an Information Systems student exploring the space where **business processes meet technology**.
+Hi there! 👋 I'm **Affan**, an Information Systems student at **Telkom University**, exploring the intersection of business processes and technology.
 
-I enjoy learning how applications work, designing systems that solve real problems, and turning ideas into working projects. Still learning, still experimenting, and definitely still debugging. 🚀
-
-- 🎓 Currently studying **Information Systems** at Telkom University.
-- 🧩 Interested in **web apps, database systems, APIs, and business process analysis**.
-- 🛠️ Learning through coursework, experiments, and hands-on projects.
-- 🌱 Goal: build useful things and become a better developer one commit at a time.
-- 💬 Motto: *Progress over perfection. But clean code is nice, too.*
+- 🎓 Studying Information Systems at Telkom University.
+- 🧩 Interested in web development, databases, APIs, and system design.
+- 🛠️ Learning through coursework and hands-on projects.
+- 🌱 Goal: build useful things and improve with every commit.
+- 💬 Motto: *Progress over perfection.*
 
 ## `> tech_stack --list`
 
 <div align="center">
 
-### Languages & Web
-<img src="https://skillicons.dev/icons?i=java,php,python,html,css,js&theme=dark" alt="Java, PHP, Python, HTML, CSS, JavaScript">
-
-### Frameworks, Database & Tools
-<img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode,linux&theme=dark" alt="Laravel, MySQL, Git, GitHub, VS Code, Linux">
+<img src="https://skillicons.dev/icons?i=java,php,python,html,css,js,laravel,mysql,git,github,vscode,linux&theme=dark" alt="Technology stack">
 
 </div>
-
-<sub>These icons represent technologies relevant to my learning and projects—not a claim of expert-level proficiency.</sub>
 
 ## `> github_stats --user AffanMS`
 
 <div align="center">
 
 <a href="https://github.com/AffanMS">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AffanMS&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="GitHub stats for AffanMS">
+<img src="https://github-readme-stats.vercel.app/api?username=AffanMS&show_icons=true&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA" height="175" alt="GitHub statistics">
 </a>
+
 <a href="https://github.com/AffanMS">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanMS&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Top languages for AffanMS">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanMS&layout=compact&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=CBD5E1" height="175" alt="Top languages">
 </a>
 
 <br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AffanMS&hide_border=true&background=0B1020&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=AffanMS&hide_border=true&background=080B16&ring=06B6D4&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" width="80%" alt="GitHub contribution streak">
 
 </div>
 
-<sub>Stats are generated by external services from available GitHub data. They may take a moment to load, and language rankings are estimates—not a measure of skill.</sub>
-
 ## `> currently_debugging.exe`
-
-<div align="center">
 
 | Error message | Developer translation |
 |:--|:--|
 | `It works on my machine` | Let's not touch anything. |
 | `One small change` | See you in three hours. |
-| `undefined is not a function` | Today is a learning opportunity. |
+| `undefined is not a function` | Another learning opportunity. |
 | `Works perfectly` | Don't ask how. Ship it. |
-
-</div>
-
-## `> random_dev_joke()`
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%2367E8F9&aColor=%23CBD5E1&borderColor=%23312E81" alt="Random programming joke">
-
-</div>
 
 ## `> sudo unlock_secret`
 
 <details>
-<summary><b>🔐 You found a hidden terminal. Click to reveal the secret.</b></summary>
-
-<br>
+<summary><strong>🔐 Open hidden terminal</strong></summary>
 
 ```bash
 affan@github:~$ whoami
 aspiring developer
 
 affan@github:~$ cat secret.txt
-The best developers aren't people who never get errors.
-They're people who keep learning how to solve them.
-
-affan@github:~$ make coffee
-☕ Brewing...
-☕ Brewing...
-☕ Brewing...
-Error: coffee.exe has stopped responding
+Keep learning. Keep building.
+Every bug is a chance to improve.
 
 affan@github:~$ exit
-Thanks for visiting. Don't forget to star projects you find useful!
+Thanks for visiting!
 ```
 
-**SECRET UNLOCKED:** +10 debugging XP  
-**NEXT MISSION:** Build something useful. Break it. Fix it. Learn from it. 🎮
+**SECRET UNLOCKED:** +10 debugging XP 🎮
 
 </details>
 
@@ -124,15 +98,16 @@ Thanks for visiting. Don't forget to star projects you find useful!
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:7C3AED,100:050816" alt="Neon divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:080B16" width="100%" alt="Cyan purple divider">
 
 ### `while (learning) { keepBuilding(); }`
 
-**Thanks for visiting my little corner of GitHub.**  
+**Thanks for visiting my GitHub profile!**
+
 *Made with curiosity, caffeine, and a suspicious number of browser tabs.* ☕🧠
 
 <a href="https://github.com/AffanMS?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-080B16?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories">
 </a>
 
 </div>
