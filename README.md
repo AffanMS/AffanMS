@@ -1,113 +1,134 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AffanMS/AffanMS/main/dragon-energy.png" alt="Purple and cyan dragons" width="100%">
+# <span>Affan Maulana Saputra</span>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=85&text=Affan%20Maulana%20Saputra&fontSize=32&fontColor=FFFFFF&fontAlignY=55&color=0:7C3AED,100:06B6D4" alt="Affan Maulana Saputra - purple cyan gradient">
+### Information Systems Student
 
-<p><strong>INFORMATION SYSTEMS · DEVELOPER IN PROGRESS</strong></p>
+*Software Development · Web Technology · Data*
 
+<br/>
+
+<img src="https://img.shields.io/badge/NIM-102022400276-8B5CF6?style=for-the-badge" alt="NIM"/>
 <a href="https://github.com/AffanMS">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=720&lines=Learning+today.;Building+tomorrow.;Debugging+is+my+unofficial+cardio." alt="Animated developer tagline">
+<img src="https://img.shields.io/badge/GitHub-AffanMS-161B22?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+<img src="https://img.shields.io/badge/FOCUS-Development-0891B2?style=for-the-badge" alt="Development"/>
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-BUILDING%20%26%20LEARNING-06B6D4?style=for-the-badge&labelColor=080B16" alt="Focus">
-<img src="https://img.shields.io/badge/VIBE-DARK%20MODE%20ONLY-7C3AED?style=for-the-badge&labelColor=080B16" alt="Dark mode">
-<img src="https://komarev.com/ghpvc/?username=AffanMS&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=35&lines=Building+Ideas+Into+Applications;Learning+Through+Projects;Turning+Problems+Into+Solutions" alt="Developer tagline"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
-```text
-Name      : Affan Maulana Saputra
-Role      : Information Systems Student
-Campus    : Telkom University
-Interests : Web Development • Databases • System Design
-Mindset   : Learn → Build → Debug → Repeat
-```
+Hello! I'm an Information Systems student passionate about technology, application development, and solving problems through software.
 
-Hi there! 👋 I'm **Affan**, an Information Systems student at **Telkom University**, exploring the intersection of business processes and technology.
+I enjoy combining technical knowledge with practical ideas to create useful digital solutions. I'm continuously learning, experimenting, and improving through hands-on projects.
 
-- 🎓 Studying Information Systems at Telkom University.
-- 🧩 Interested in web development, databases, APIs, and system design.
-- 🛠️ Learning through coursework and hands-on projects.
-- 🌱 Goal: build useful things and improve with every commit.
-- 💬 Motto: *Progress over perfection.*
+- **Currently learning:** Web development and software engineering.
+- **Interested in:** Backend development, databases, and application design.
+- **Approach:** Learn by building, testing, and improving.
+- **Goal:** Develop useful applications and grow as a software developer.
 
-## `> tech_stack --list`
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,python,html,css,js,laravel,mysql,git,github,vscode,linux&theme=dark" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,cs,python,mysql,git,github,vscode&theme=dark&perline=6" alt="Technology stack"/>
 
 </div>
 
-## `> github_stats --user AffanMS`
+## What I'm Interested In
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Web Development
+
+Building responsive websites and exploring modern web technologies.
+
+</td>
+<td width="50%" valign="top">
+
+### Backend & Databases
+
+Learning application logic, SQL, data modeling, and database management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+Understanding how to design, develop, test, and maintain applications.
+
+</td>
+<td width="50%" valign="top">
+
+### Continuous Learning
+
+Improving technical skills through coursework, experimentation, and projects.
+
+</td>
+</tr>
+</table>
+
+## GitHub
 
 <div align="center">
 
-<a href="https://github.com/AffanMS">
-<img src="https://github-readme-stats.vercel.app/api?username=AffanMS&show_icons=true&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA" height="175" alt="GitHub statistics">
-</a>
+<img src="https://streak-stats.demolab.com?user=AffanMS&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
-<a href="https://github.com/AffanMS">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanMS&layout=compact&hide_border=true&bg_color=080B16&title_color=67E8F9&text_color=CBD5E1" height="175" alt="Top languages">
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=AffanMS&hide_border=true&background=080B16&ring=06B6D4&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" width="80%" alt="GitHub contribution streak">
-
-</div>
-
-## `> currently_debugging.exe`
-
-| Error message | Developer translation |
-|:--|:--|
-| `It works on my machine` | Let's not touch anything. |
-| `One small change` | See you in three hours. |
-| `undefined is not a function` | Another learning opportunity. |
-| `Works perfectly` | Don't ask how. Ship it. |
-
-## `> sudo unlock_secret`
-
-<details>
-<summary><strong>🔐 Open hidden terminal</strong></summary>
-
-```bash
-affan@github:~$ whoami
-aspiring developer
-
-affan@github:~$ cat secret.txt
-Keep learning. Keep building.
-Every bug is a chance to improve.
-
-affan@github:~$ exit
-Thanks for visiting!
-```
-
-**SECRET UNLOCKED:** +10 debugging XP 🎮
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:080B16" width="100%" alt="Cyan purple divider">
-
-### `while (learning) { keepBuilding(); }`
-
-**Thanks for visiting my GitHub profile!**
-
-*Made with curiosity, caffeine, and a suspicious number of browser tabs.* ☕🧠
+<br/><br/>
 
 <a href="https://github.com/AffanMS?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-080B16?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
+
+</div>
+
+## My Development Principles
+
+<div align="center">
+
+| Learn | Build | Improve |
+|:---:|:---:|:---:|
+| Understand new concepts | Turn ideas into projects | Refine every iteration |
+
+</div>
+
+```javascript
+const affan = {
+  name: "Affan Maulana Saputra",
+  nim: "102022400276",
+  major: "Information Systems",
+  interests: [
+    "Web Development",
+    "Software Engineering",
+    "Database Systems"
+  ],
+  motto: "Learn. Build. Improve."
+};
+
+console.log(affan.motto);
+```
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+<sub>Designed with curiosity, built through learning, improved with every project.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8B5CF6,100:22D3EE" width="70%" alt="Purple cyan accent"/>
 
 </div>
